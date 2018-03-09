@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="0c572937-0d4a-48cc-aa3f-875ffa9805ba" Version="3.0" Language="en-US" Publisher="Xavalon" />
-    <DisplayName>XAML Styler</DisplayName>
+    <Identity Id="47286C4F-7839-4F27-98DE-E4C1670239F4" Version="3.0.1" Language="en-US" Publisher="Secomba GmbH (fork of Xavalon)" />
+    <DisplayName>XAML Styler Secomba Fork</DisplayName>
     <Description xml:space="preserve">XAML Styler is a visual studio extension, which formats XAML source code by sorting the attributes based on their importance. This tool can help you/your team maintain a better XAML coding style as well as a much better XAML readability.</Description>
     <MoreInfo>https://github.com/Xavalon/XamlStyler/</MoreInfo>
     <License>LICENSE.txt</License>
